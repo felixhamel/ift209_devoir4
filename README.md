@@ -1,4 +1,4 @@
-ift209_devoir4
+Devoir 4 - IFT 209
 ==============
 
-Devoir 4 du cours d'IFT209
+Université de Sherbrooke, Automne 2014
